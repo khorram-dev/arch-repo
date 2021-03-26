@@ -1,2 +1,2 @@
-# linux
-packages
+# Arch Linux repository
+add komport
